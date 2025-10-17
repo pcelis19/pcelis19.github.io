@@ -31650,12 +31650,14 @@ A.bzJ(n)
 s=new A.dc("")
 s.a="class "+a+" extends StatelessWidget{\n"
 A.bA2(s,n)
-r=s.a=(s.a+="\t@override")+"\tfinal Widget Function(BuildContext context,"
+r=s.a+="\tfinal Widget Function(BuildContext context,"
 for(q=n.length,p=0;p<n.length;n.length===q||(0,A.S)(n),++p){o=n[p]
 r=o.b.a8I()+" "+o.a+", "
 r=s.a+=r}s.a=r+") builder;\n"
 A.bA1(s,a,n)
-s.a=(s.a+="\tWidget build(BuildContext context){\n")+"\t\treturn "
+r=(s.a+="\t@override\n")+"\tWidget build(BuildContext context){\n"
+s.a=r
+s.a=r+"\t\treturn "
 r=A.bij(0,n)
 r=(s.a+=r)+"\t}\n"
 s.a=r
