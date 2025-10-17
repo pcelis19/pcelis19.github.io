@@ -114525,7 +114525,7 @@ $3(a,b,c){var s=null,r=b.f,q=this.a,p=this.b
 return A.iF(A.BV(A.b([new A.cK(B.e2,s,s,A.oB(!1,A.aI("Marketplace",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),s,s,s,s,s,s,new A.aLc(a),s,s),s),A.a1w(s,s,q,s,!0,s,"Website",s,s,"https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter",s),new A.cK(B.e2,s,s,A.hm(q,new A.aLd(p)),s),A.pl(new A.bp(new A.aB(r,r,r,r),A.fY(p,new A.aLe(),t.KJ),s),s,s,s,s)],t.p),A.cU(s,r/2,s)),new A.aB(r,r,r,r),s,!1)},
 $S:170}
 A.aLc.prototype={
-$0(){A.bhw("https://marketplace.visualstudio.com/",this.a)},
+$0(){A.bhw("https://marketplace.visualstudio.com/vscode",this.a)},
 $S:0}
 A.aLd.prototype={
 $3(a,b,c){var s,r=null,q=A.aKU(b),p=b.length===0
