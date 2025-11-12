@@ -116377,7 +116377,7 @@ case 0:return"List of your Contact Projects"
 case 1:return"Create your own AI flow"
 case 3:return"A Fun app that Anthony and I built"
 case 5:return"Little tool to download VSCode extensions"
-case 7:return"Because MPB is ass."}},
+case 7:return"Because MPB is hard."}},
 gQ_(a){switch(this.a){case 6:return B.aco
 case 2:return B.acx
 case 4:return B.acr
